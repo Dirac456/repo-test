@@ -2,6 +2,5 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
+# sin notas
 
-## Notas
-Pueden hacer lo que quieran bla bla bla...
